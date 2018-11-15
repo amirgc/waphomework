@@ -1,0 +1,3 @@
+127.0.0.1 - - [15/Nov/2018:11:29:44 -0500] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [15/Nov/2018:11:29:45 -0500] "GET /custom-tag-demo/WEB-INF/classes/com/example/MyTag4.java HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [15/Nov/2018:11:29:54 -0500] "GET /custom-tag-demo/ HTTP/1.1" 200 321

@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\gcami\WAP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3476400299.index
+3819283338.index
+2774734374.index
+3570109584.index
+3884048308.index
+2203274743.index
+3463714094.index

@@ -36,8 +36,11 @@
   <source-attachment entry="C:/Tomcat/apache-tomcat-8.5.31/lib/jsp-api.jar" runtime-id="Apache Tomcat v8.5">
     <attribute name="javadoc_location" value="https://docs.oracle.com/javaee/7/api/"/>
   </source-attachment>
-  <source-attachment entry="C:/Tomcat/apache-tomcat-8.5.31/lib/servlet-api.jar" runtime-id="Apache Tomcat v8.5">
+  <source-attachment entry="C:/Tomcat/apache-tomcat-8.5.31/lib/servlet-api.jar" runtime-id="Apache Tomcat v8.5" source-attachment-path="C:/Tomcat/apache-tomcat-8.0.53-src">
     <attribute name="javadoc_location" value="https://docs.oracle.com/javaee/7/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Tomcat/apache-tomcat-8.5.31/lib/servlet-api.jar.zip" runtime-id="Apache Tomcat v8.5">
+    <attribute name="javadoc_location" value="https://tomcat.apache.org/tomcat-8.5-doc/api/"/>
   </source-attachment>
   <source-attachment entry="C:/Tomcat/apache-tomcat-8.5.31/lib/tomcat-api.jar" runtime-id="Apache Tomcat v8.5">
     <attribute name="javadoc_location" value="https://tomcat.apache.org/tomcat-8.5-doc/api/"/>

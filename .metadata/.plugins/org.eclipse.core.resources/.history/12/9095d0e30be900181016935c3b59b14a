@@ -1,0 +1,28 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Support</title>
+</head>
+<body>
+	<form action="/support" method="Post">
+		<div>
+			Name:<input type="text">
+		</div>
+		<div>
+			Email Address:<input type="text">
+		</div>
+		<div>
+			Problem:<input type="text">
+		</div>
+		<div>
+			Problem Description:<textarea name="problemDescription"></textarea>
+		</div>
+		<div>
+			<button type="submit">Help</button>
+		</div>
+	</form>
+</body>
+</html>

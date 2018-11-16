@@ -1,4 +1,4 @@
-browser-choice=0
+browser-choice=1
 browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="2">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe" name\="Chrome"/>\r\n</web-browsers>
 eclipse.preferences.version=1
-internalWebBrowserHistory=http\://localhost\:8080/custom-tag-demo/|*|http\://localhost\:8080/custom-tag-demo/WEB-INF/classes/com/example/MyTag4.java|*|http\://localhost\:8080/DemoApp/doGet?num1\=1&num2\=2|*|http\://localhost\:8080/DemoApp/|*|http\://localhost\:8080/DemoApp|*|http\://localhost\:8080/DemoApp/add|*|
+internalWebBrowserHistory=http\://localhost\:8080/DemoApp/support|*|http\://localhost\:8080/DemoApp/index.jsp|*|http\://localhost\:8080/DemoApp/SupportIndex|*|http\://localhost\:8080/support|*|http\://localhost\:8080/DemoApp/index.html|*|http\://localhost\:8080/|*|http\://localhost\:8080/custom-tag-demo/|*|http\://localhost\:8080/custom-tag-demo/WEB-INF/classes/com/example/MyTag4.java|*|http\://localhost\:8080/DemoApp/doGet?num1\=1&num2\=2|*|http\://localhost\:8080/DemoApp/|*|http\://localhost\:8080/DemoApp|*|http\://localhost\:8080/DemoApp/add|*|
